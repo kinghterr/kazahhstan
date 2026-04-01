@@ -1,0 +1,38 @@
+body {
+    background-image: url("images/bg.jpg");
+    font-family: Arial;
+    font-size: 20px; /* УВЕЛИЧИЛИ ШРИФТ */
+    color: #000;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover {
+    color: red;
+}
+
+.header {
+    text-align: center;
+    background-color: lightblue;
+    font-size: 24px;
+}
+img {
+    margin-top: 15px;
+    border-radius: 10px;
+}
